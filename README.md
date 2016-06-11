@@ -1,4 +1,4 @@
-old_projects
+The Alchemist Game
 ============
 
-Stuff that I've mostly done from highschool
+A game made in java and can be run from the jar file. Java must be installed to play.
